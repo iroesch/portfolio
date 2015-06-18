@@ -1,0 +1,15 @@
+body {
+    background-image: url("feet.JPG")
+}
+
+#first-div {
+    background-color: blue;
+}
+
+.all-div {
+    font-size: 100px;
+}
+
+.bold {
+  font-style: italic;
+}
