@@ -1,1 +1,1 @@
-My site
+My site for photos, design, etc
